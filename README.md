@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Kavibritto Chalaman from Dindigul,TamilNadu<br><br>- 🔭 I’m working as DevOps Engineer!<br>- 📚 I'm currently working in Xeni Inc!<br>- ⚡ In my free time I learn new tech..!</p>
+<p align="left">I'm Kavibritto Chalaman from Dindigul,TamilNadu<br><br>- 🔭 I’m working as SRE!<br>- 📚 I'm currently working at Xeni Inc!<br>- ⚡ In my free time I learn new tech..!</p>
 
 ###
 
@@ -45,15 +45,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" height="40" alt="jenkins logo"  />
+  <img src="https://mirror.freedif.org/jenkins/art/jenkins-logo/logo.svg" height="40" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
